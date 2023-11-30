@@ -1,0 +1,83 @@
+[
+  {
+    "question": "Quais semelhanças  há entre o livro 'Dez dias de cortiço' e 'o cortiço'",
+    "choice1": "A análise do comportamento das pessoas que vivem no cortiço",
+    "choice2": "O autor",
+    "choice3": "A quantidade de páginas",
+    "choice4": "A época em que se passa",
+    "answer": 1
+  },
+  {
+    "question": "O que eduardo queria despertar em seu filho?",
+    "choice1": "deixar de ser mimado",
+    "choice2": "Desenvolver um interesse pelo ser humano",
+    "choice3": "A viver como pobre",
+    "choice4": "Não fazer artigos de carros com freios ruins",
+    "answer": 2
+  },
+  {
+    "question": "O que Eduardo sentiu após a discussão com a família?",
+    "choice1": "O amargor de ser Traído",
+    "choice2": "Orgulho pelo bom exemplo que ele deu a seus filhos",
+    "choice3": "Nó na garganta",
+    "choice4": "raiva",
+    "answer": 3
+  },
+  {
+    "question": "Qual o nome da banda de forró que Sergio foi assistir?",
+    "choice1": "Quebra ovos",
+    "choice2": "Bebes chorões",
+    "choice3": "Maquita",
+    "choice4": "Britadeira",
+    "answer": 4
+  },
+  {
+    "question": "Qual era a profissão que Ana queria seguir?",
+    "choice1": "Escritora",
+    "choice2": "Jornalista",
+    "choice3": "Arquiteta",
+    "choice4": "Professora",
+    "answer": 2
+  },
+  {
+    "question": "Qual era o sonho de Matias?",
+    "choice1": "Andar e balsa",
+    "choice2": "Visitar o cristo redentor",
+    "choice3": "Andar de trainera",
+    "choice4": "Se reencontrar com seus colegas",
+    "answer": 3
+  },
+  {
+    "question": "Como Bertoleza conheceu a João Romão?",
+    "choice1": "Foi vendida para ele",
+    "choice2": "Ela era vizinha dele e ele se aproximou dela por interesse",
+    "choice3": "se conheceram enqanto ela trabalhava no cortiço",
+    "choice4": "Se conhecerão na padaria",
+    "answer": 2
+  },
+  {
+    "question": "Qual o numero do apartamento da Banda de forró?",
+    "choice1": "934",
+    "choice2": "939",
+    "choice3": "834",
+    "choice4": "839",
+    "answer": 1
+  },
+  {
+    "question": "Qual era o nome do noivo da Pombinha?",
+    "choice1": "João da Costa",
+    "choice2": "Firmo",
+    "choice3": "João Alencar",
+    "choice4": "Jerônimo",
+    "answer": 1
+  },
+  {
+    "question": "Como Matias ajudou Eduardo a produzir o livro?",
+    "choice1": "Apresentou ele as pessoas que vivem no cortiço",
+    "choice2": "Ajuou ele a encontrar um lugar para morar",
+    "choice3": "Ficou com o filho dele enquanto ele fazia o livro",
+    "choice4": "Publicou o livro",
+    "answer": 1
+  }
+
+]
